@@ -3,7 +3,7 @@ const buttonNo = document.querySelector(".no");
 
 function sendMessage(accepted) {
     if (accepted) {
-        alert("<TeAmo>");
+        alert("<Te Amo Minha BIBISZINHA>");
         return;
     }
 
